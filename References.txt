@@ -1,0 +1,24 @@
+Default Users:
+emre - 1234
+jane - 1234 // 2 Failed login attempts
+justin - 1234 // Haven't logged in for over 30 minutes after creating an account
+
+Bugs:
+Go Back button on edit page does not work on first login.
+
+References:
+Redirect to edit page on first login:
+https://forums.codewalkers.com/php-coding-7/redirect-user-to-different-pages-on-first-time-login-1180298.html
+Show Password:
+https://www.w3schools.com/howto/howto_js_toggle_password.asp
+Login time limit:
+https://stackoverflow.com/questions/23585623/delete-rows-older-than-30-minutes-in-mysql
+
+Misc:
+Added timezone and changed date to idate format to compare in switch case
+https://stackoverflow.com/questions/20288789/php-date-with-timezone
+http://php.net/manual/en/function.idate.php
+https://stackoverflow.com/questions/24812851/using-comparison-operators-in-php-switch
+Icons:
+https://fontawesome.com/
+https://foundation.zurb.com/building-blocks/blocks/form-icons.html

@@ -1,0 +1,7 @@
+body, h3, h5, p, input, a { font-family: 'Roboto', sans-serif; }
+.asterix { color: #F31431; }
+.help-text { font-family: 'Roboto', sans-serif; font-size: 1rem; color: #F31431; }
+.button-group { margin-top: 1em; }
+.select {height: auto;}
+.card-divider { display: flex; justify-content: space-between; align-items: center; padding:1rem 1.9325rem 1rem 1.9325rem; }
+form .input-group-label { background-color: #1779ba; border-color: #1779ba; }
